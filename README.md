@@ -33,7 +33,8 @@ This repo covers the validator lifecycle, including:
 4. Staking and control address roles  
 5. Testnet → Mainnet transition  
 
-Each section below references a **dedicated script**, with a clear execution command.
+Each section below references a dedicated script or documented workflow,
+with a clear execution command where applicable.
 
 ---
 
