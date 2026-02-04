@@ -54,7 +54,7 @@ Initial preparation of a Monad node for **testnet validator onboarding**.
 - before any staking or validator-related transactions
 
 ~~~bash
-source <(curl -s https://raw.githubusercontent.com/chaindigital/monad/main/testnet-setup.sh)
+source <(curl -s https://raw.githubusercontent.com/chaindigital/monad/main/scripts/testnet-setup.sh)
 ~~~
 
 ---
@@ -74,7 +74,7 @@ Mainnet-specific preparation with stricter safety checks.
 - after migrating infrastructure from testnet
 
 ~~~bash
-source <(curl -s https://raw.githubusercontent.com/chaindigital/monad/main/mainnet-setup.sh)
+source <(curl -s https://raw.githubusercontent.com/chaindigital/monad/main/scripts/mainnet-setup.sh)
 ~~~
 
 ---
