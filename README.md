@@ -25,7 +25,7 @@ All scripts are designed to be:
 
 ## Repository Scope
 
-This repo covers the full validator lifecycle:
+This repo covers the validator lifecycle, including:
 
 1. Node preparation and preflight checks  
 2. Validator key verification  
